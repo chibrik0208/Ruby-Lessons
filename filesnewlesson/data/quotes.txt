@@ -1,0 +1,6 @@
+hi
+bye
+hello
+goodbye
+sun
+winter
