@@ -4,3 +4,4 @@ puts a + b
 
 puts a
 puts b 
+puts 'hello world'
